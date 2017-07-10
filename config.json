@@ -1,0 +1,30 @@
+{
+    "rules": {
+        "number_of_users": 3,
+        "max_posts_per_user": 4,
+        "max_likes_per_user": 4
+    },
+    "users": [
+        {
+            "username": "enver",
+            "password": "#S()?(y@jC688<",
+            "email": "enver@bisevac.com" 
+        },
+        {
+            "username": "hamza",
+            "password": "#S()?(y@jC688<",
+            "email": "hamzabisevac42@gmail.com" 
+        },
+        {
+            "username": "meliha",
+            "password": "#S()?(y@jC688<",
+            "email": "meliha.bisevac@gmail.com" 
+        }
+    ],
+    "blog": {
+        "post": {
+            "title": "Title title",
+            "content": "Neki text, neki text"
+        }
+    }
+}
